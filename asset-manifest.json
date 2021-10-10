@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/funnyelefunnft/static/css/main.ee03bb43.chunk.css",
+    "main.js": "/funnyelefunnft/static/js/main.4cc3ef6c.chunk.js",
+    "main.js.map": "/funnyelefunnft/static/js/main.4cc3ef6c.chunk.js.map",
+    "runtime-main.js": "/funnyelefunnft/static/js/runtime-main.a49a2db0.js",
+    "runtime-main.js.map": "/funnyelefunnft/static/js/runtime-main.a49a2db0.js.map",
+    "static/js/2.deac71b5.chunk.js": "/funnyelefunnft/static/js/2.deac71b5.chunk.js",
+    "static/js/2.deac71b5.chunk.js.map": "/funnyelefunnft/static/js/2.deac71b5.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/funnyelefunnft/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/funnyelefunnft/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/funnyelefunnft/index.html",
+    "static/css/main.ee03bb43.chunk.css.map": "/funnyelefunnft/static/css/main.ee03bb43.chunk.css.map",
+    "static/js/2.deac71b5.chunk.js.LICENSE.txt": "/funnyelefunnft/static/js/2.deac71b5.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/funnyelefunnft/static/media/1.75f03515.png",
+    "static/media/reset.css": "/funnyelefunnft/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a49a2db0.js",
+    "static/js/2.deac71b5.chunk.js",
+    "static/css/main.ee03bb43.chunk.css",
+    "static/js/main.4cc3ef6c.chunk.js"
+  ]
+}
